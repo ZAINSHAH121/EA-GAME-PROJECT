@@ -1,6 +1,6 @@
-# Game Inventory System
+# 🎮 Game Inventory System (C++)
 
-This is a simple game inventory management system developed in C++.
+This project is a console-based Inventory Management System implemented in C++, designed for game development use cases. It allows adding, removing, and displaying in-game items using an efficient and clean data structure (std::unordered_map). The system ensures performance and scalability, while maintaining simplicity for easy integration.
 
 ## 💡 Features
 
@@ -11,8 +11,18 @@ This is a simple game inventory management system developed in C++.
 
 ## 🛠️ Technologies Used
 
-- C++
-- File I/O for saving/loading inventory
+C++17
+
+Standard Template Library (STL)
+
+Object-Oriented Programming (OOP)
+
+##📂 Structure
+main.cpp: Entry point of the program
+
+GameObjects.h: Class definitions for Item and Inventory
+
+GameObjects.cpp: Function implementations for inventory management
 
 ## 🚀 Getting Started
 
